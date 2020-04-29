@@ -1,7 +1,14 @@
-sentiment-goods/.ipynb_checkpoints/
+*.docx
+sentiment-goods/.ipynb_checkpoints
 sentiment-goods/__pycache__
 sentiment-goods/model
 sentiment-goods/temp
+sentiment-goods/read_me.docx
 sentiment-goods/data/goods_zh.txt
+sentiment-weibo/.ipynb_checkpoints
+sentiment-weibo/__pycache__
+sentiment-weibo/data
+sentiment-weibo/embeddings
+sentiment-weibo/lstm_model
 sentiment-meituan/
 sentiment-meituan2/
