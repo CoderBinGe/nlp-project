@@ -1,0 +1,3 @@
+*.py
+chinese-classify/.ipynb_checkpoints
+chinese-classify/data
